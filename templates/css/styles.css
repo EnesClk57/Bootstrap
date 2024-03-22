@@ -10947,7 +10947,7 @@ header.masthead {
   padding-bottom: 6rem;
   text-align: center;
   color: #fff;
-  background-image: url("../assets/img/header-bg.jpg");
+  background-image: url("../assets/img/fond.jpeg");
   background-repeat: no-repeat;
   background-attachment: scroll;
   background-position: center center;
@@ -11076,7 +11076,7 @@ header.masthead .masthead-heading {
   list-style: none;
 }
 .timeline:before {
-  position: absolute;
+  position:absolute;
   top: 0;
   bottom: 0;
   left: 40px;
